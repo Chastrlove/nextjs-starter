@@ -1,4 +1,4 @@
-const withAntdLess = require('next-plugin-antd-less');
+const withAntdLess = require('./antd-next-less');
 
 module.exports = withAntdLess({
     // optional
